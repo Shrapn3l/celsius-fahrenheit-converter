@@ -1,5 +1,6 @@
-// celsius-fahranheit-converter
-Public Class Form1
+
+Public Class Form1 
+//fahrenheit to celsius converter
 
 
     Dim celr As Boolean
