@@ -1,0 +1,11 @@
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\obj\Debug\fahranheit to celsius.vbprojAssemblyReference.cache
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\obj\Debug\fahranheit_to_celsius.Form1.resources
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\obj\Debug\fahranheit_to_celsius.Resources.resources
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\obj\Debug\fahranheit to celsius.vbproj.GenerateResource.cache
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\bin\Debug\fahranheit to celsius.exe.config
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\bin\Debug\fahranheit to celsius.exe
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\bin\Debug\fahranheit to celsius.pdb
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\bin\Debug\fahranheit to celsius.xml
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\obj\Debug\fahranheit to celsius.exe
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\obj\Debug\fahranheit to celsius.xml
+C:\Users\Root\source\repos\fahranheit to celsius\fahranheit to celsius\obj\Debug\fahranheit to celsius.pdb
